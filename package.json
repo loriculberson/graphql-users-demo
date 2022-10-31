@@ -1,0 +1,17 @@
+{
+  "name": "customer-db-10-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.10.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
